@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dan-chambers-hive
 - 👀 I’m interested in DevOps, Automation, Python, Cloud Computing
-- 🌱 I’m currently learning AWS, Monitoring Solutions
+- 🌱 I’m currently learning AWS, Monitoring Solutions, Docker Containers, TypeScript
